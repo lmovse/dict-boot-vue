@@ -1,7 +1,7 @@
 {
-  "name": "lmb-vue",
+  "name": "dict-boot-vue",
   "version": "1.0.0",
-  "description": "lmb web project",
+  "description": "dict web project",
   "author": "lmovse",
   "private": true,
   "scripts": {

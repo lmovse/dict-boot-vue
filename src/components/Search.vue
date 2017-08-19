@@ -40,8 +40,8 @@
 <script>
   import api from '@/api/api'
   import CollocItem from '@/components/item/CollocItem'
+  import CollexaItem from "@/components/item/CollexaItem";
   import bootstrap from '@/assets/js/bootstrap.min.js'
-  import CollexaItem from "./item/CollexaItem";
 
   export default {
     name: 'dict',

@@ -1,6 +1,6 @@
-# lmb-vue
+# dict-boot-vue
 
-> lmb web project
+> dict web project
 
 ## Build Setup
 
